@@ -1,2 +1,3 @@
 .ipynb_checkpoints
 spark-warehouse
+model/__pycache__/
